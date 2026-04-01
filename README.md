@@ -1,4 +1,5 @@
 💰 Dashboard Financeiro – Fluxo de Caixa
+
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI com foco na análise do fluxo de caixa empresarial, oferecendo uma visão estratégica e detalhada da saúde financeira ao longo do tempo.
 Os dados foram estruturados em Excel, modelados e segmentados por setor e classificação de despesa, permitindo análises comparativas entre períodos e áreas da empresa.
 
